@@ -16,6 +16,9 @@ p{
     font-family: "tf2professor";
     font-size: 2.5em;
 }
+.centeredContent{
+   text-align: center;
+}
 @font-face{
     font-family: "TF2";
     font-style: normal;
